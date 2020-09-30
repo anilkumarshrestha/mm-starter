@@ -32,7 +32,7 @@ words_per_minute: 200
 # Assets
 logo: /assets/images/ekbanalogo.png
 teaser: /assets/images/ekbana.jpg
-# carousel: /assets/images/ekbana.jpg
+carousel: /assets/images/ekbana.jpg
 # For pages that don’t have a header.image assigned in their YAML Front Matter
 og_image: /assets/images/logo.png
 

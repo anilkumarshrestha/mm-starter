@@ -3,9 +3,9 @@ layout: archive
 ---
 
 {{ content }}
-{% capture teaser_path %}{{ site.teaser }}{% endcapture %}
+{% capture carousel_path %}{{ site.carousel }}{% endcapture %}
 <!-- <img src={{site.carousel}}> -->
-<img src={{teaser_path|relative_url}}>
+<img src={{carousel_path|relative_url}}>
 
 <h4 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h4>
 
