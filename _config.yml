@@ -22,8 +22,8 @@ title_separator: "|"
 twitter_username: ekbana
 github_username: ekbana
 minimal_mistakes_skin: contrast # 'air', 'contrast'
-base: "mm-starter"
-url: " https://anilkumarshrestha.github.io"
+baseurl: "/mm-starter"
+url: "https://anilkumarshrestha.github.io"
 search: true
 breadcrumbs: true
 
